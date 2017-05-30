@@ -25,7 +25,7 @@ header ul li{
 .menu-mobile ul li{
   font-size: 16px;
   color: #2b2b2b;
-  margin: 100px 25px;
+  margin: 25px;
 }
 .menu{
   display: flex;
@@ -90,7 +90,7 @@ header ul li{
 }
 /* info */
 #info{
-  height: 530px;
+  height: 525px;
   padding-top: 30px;
 }
 .container-info{
@@ -109,7 +109,7 @@ header ul li{
     width: 70%;
   }
   #info{
-    height: 450px;
+    height: 550px;
   }
   .container-info{
     margin: 0 auto;
@@ -205,11 +205,14 @@ footer ul li{
 }
 
 @media (min-width: 767px){
-  #red-soclial {
+  #red-soclial{
     position: relative;
   }
-  img#social {
+  #social {
      position: absolute;
      top: 268px;
+ }
+ #store-app{
+   padding-top: 165px;
  }
 }
