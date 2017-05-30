@@ -15,12 +15,9 @@ Recursos del proyecto:
 
 Integrantes     | GitHub
 -------- | ---
-Neiza Nuñez |[https://github.com/NeizaNuñez][1]
-Glisse Jorge |[https://github.com/GlisseLisbeth][1]
-Eliana Silva |[https://github.com/StrongWarmi][1]
-Cindy Mendoza |[https://github.com/LeidyRosmery][1]
-Rosmery Maldonado |[https://github.com/LeidyRosmery][1]
-Angie Condor |[https://github.com/AngieCondor][1]
-
-=================================================
-laboratorialima
+Neiza Nuñez |[https://github.com/NeizaNuñez]
+Glisse Jorge |[https://github.com/GlisseLisbeth]
+Eliana Silva |[https://github.com/StrongWarmi]
+Cindy Mendoza |[https://github.com/CindyMendoza]
+Rosmery Maldonado |[https://github.com/LeidyRosmery]
+Angie Condor |[https://github.com/AngieCondor]
