@@ -1,6 +1,12 @@
 var menuEscondido = document.getElementById('menu-vertical');
 hamburguer.addEventListener("click",function(){
-    menuEscondido.style.display="block";
+    event.preventDefault();
+    if(menuEscondido.style.display != "block"){
+        menuEscondido.style.display="block";
+    }
+    else{
+        menuEscondido.style.display="none";
+    }
 });
 function initMap() {
         var uluru = {lat: -25.363, lng: 131.044};
