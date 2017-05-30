@@ -1,4 +1,17 @@
+
 function initMap() {
+  
+  var menuEscondido = document.getElementById('menu-vertical');
+  hamburguer.addEventListener("click",function(){
+      event.preventDefault();
+      if(menuEscondido.style.display != "block"){
+          menuEscondido.style.display="block";
+      }
+      else{
+          menuEscondido.style.display="none";
+      }
+  });
+
   var laboratorialima = {lat: -12.1191427, lng: -77.0340046};
   var map = new google.maps.Map(document.getElementById('map'), {
     center: laboratorialima
