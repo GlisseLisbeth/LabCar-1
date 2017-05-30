@@ -11,8 +11,7 @@
   background-color: #f7b617;
 }
 .bg-black{
-  background-color: #000;
-  opacity: 0.5;
+  background-color: rgba(1, 0, 1, 0.5);
 }
 /*header - menu*/
 header{
@@ -134,6 +133,13 @@ header ul li{
     height: 450px;
     right: 0;
   }
+}
+.text-white{
+  color: white;
+  font-size: 1.7rem;
+}
+#conduce button{
+  border: none;
 }
 /*tarifa*/
 #tarifa{
