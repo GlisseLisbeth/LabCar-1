@@ -32,6 +32,9 @@ header ul li{
   color: #adadad;
 }
 /*hero*/
+#red-soclial{
+  display: flex;
+}
 #hero{
   background-image: url('../assets/img/taxi.jpg');
   background-size: cover;
@@ -179,4 +182,14 @@ footer ul li{
   .store {
     width: 100%;
   }
+}
+
+@media (min-width: 767px){
+  #red-soclial {
+    position: relative;
+  }
+  img#social {
+     position: absolute;
+     top: 268px;
+ }
 }
